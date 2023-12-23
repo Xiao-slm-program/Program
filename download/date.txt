@@ -1,11 +1,10 @@
 [000-XXX-XXXX]string head file
   [000-000-XXXX]string plus.h
     [000-000-0000]string plus.h - v0.1.1
-    [000-000-0001]string plud.h - v0.2.0
+    [000-000-0001]string plus.h - v0.2.0
     [000-ALL-0000]Download all versions
 [001-XXX-XXXX]I/O head file.h
   [001-000-XXXX]Input head file
     /* No file yet*/
   [001-001-XXXX]Input head file
     /* No file yet*/
-[]
